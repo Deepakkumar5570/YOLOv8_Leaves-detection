@@ -16,8 +16,8 @@ The focus score ensures **image quality assessment** in real-time, helping ident
 
 | Input Image | Detection + Focus Score |
 |-------------|--------------------------|
-| ![Leaf](test_model_on images/img1.jpg) | ![Detection](test_model_on images/test1.jpg) |
-| ![Leaf](test_model_on images/img2.jpg) | ![Detection](test_model_on images/test2.jpg) |
+| ![Leaf](test_model_on images/img1.JPG) | ![Detection](test_model_on images/test1.png) |
+| ![Leaf](test_model_on images/img2.JPG) | ![Detection](test_model_on images/test2.png) |
 
 
 ---
