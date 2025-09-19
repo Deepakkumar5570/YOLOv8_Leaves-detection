@@ -9,7 +9,7 @@ This project implements a **YOLOv8-based leaf detection system** with an additio
 The focus score ensures **image quality assessment** in real-time, helping identify whether a leaf is properly captured for disease detection and analysis.  
 
 ✅ Built for **precision agriculture**  
-✅ Trained on **3,000+ annotated leaf images**  
+✅ Trained on **3,000+ annotated Own Custom leaf images dataset**  
 ✅ Provides **bounding boxes + focus score**  
 ##
 ## 📷 Demo Results
